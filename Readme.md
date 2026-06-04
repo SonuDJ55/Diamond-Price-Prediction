@@ -1,1 +1,1 @@
-this is my end to end project
+This is  end to end project for Diamond price prediction
