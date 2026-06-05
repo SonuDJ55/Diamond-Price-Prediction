@@ -8,6 +8,8 @@ dependencies = [
     "scikit-learn",
     "pandas",
     "numpy",
+    "fsspec>=2026.4.0",
+    "seaborn>=0.13.2",
 ]
 
 [build-system]
